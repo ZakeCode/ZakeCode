@@ -10,7 +10,6 @@
 - 🔭 I build things across the whole stack — frontend, backend, wherever the problem lives
 - 🌱 Currently learning **Go** and **Rust** (send help, or gophers, or crabs 🦀)
 - 💬 Ask me about Python, JS/TS, Java, or C/C++/C# — I've probably shipped something with it
-- ⚡ Fun fact: I've written "Hello World" in more languages than most people have learned spoken ones
 - 📌 This account = my playground for side projects, experiments, and things I build purely because they're fun
 
 <br>
